@@ -33,6 +33,8 @@ public class GitHubJavaThing_2744456 {
 
     }
 
-    
+    public void PausGreeting(){
+        System.out.println("Paul Says Hi"):
+    }
     
 }
