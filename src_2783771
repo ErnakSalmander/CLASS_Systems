@@ -6,5 +6,6 @@ public class sr_2783771{
   int subtraction(int a, int b)
   {
     return(a-b);
-  }
+  System.out.println("Hi");
+ }
 }
