@@ -18,16 +18,18 @@ public class JavaApplication2 {
       addition();
         
     }
-
     
-       
-    
-public int addition(int a, int b) {
-    a= 5;
-    b= 5;
-    return a+b;
-}
-        
+    public int addition(int a, int b)
+    {
+        a= 5;
+        b= 5;
+        return a+b;
     }
+
+    public void printGreeting()
+    {
+        System.out.println("Hello from Micah Bosko");
+    }
+}
     
 
