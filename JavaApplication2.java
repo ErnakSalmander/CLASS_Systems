@@ -30,6 +30,10 @@ public class JavaApplication2 {
     {
         System.out.println("Hello from Micah Bosko");
     }
+
+    public void PausGreeting(){
+        System.out.println("Paul Says Hi"):
+    }
 }
     
 
