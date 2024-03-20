@@ -16,4 +16,9 @@ System.out.println("Hello World");
   {
     return(a*b);
  }
+public void printGreeting()
+    {
+        System.out.println("Hello from Ruslan Averin);
+
+    }
 }
