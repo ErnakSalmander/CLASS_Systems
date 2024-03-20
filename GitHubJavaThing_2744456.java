@@ -19,7 +19,7 @@ public class GitHubJavaThing_2744456 {
         int a = 3;
         int b = 2;
         System.out.print(subtraction(a,b));
-        System.out.print("Hi);
+        System.out.print("Hi");
     }
     
     public static int subtraction(int a, int b)
