@@ -3,6 +3,15 @@ package src_2783771
 @author Paul Siders
 **/
 public class sr_2783771{
+
+public static void main(String[] args)
+{
+int a = 10;
+int b = 3;
+System.out.println(subtraction(10,3));
+System.out.println("Hello World");
+}
+
   int subtraction(int a, int b)
   {
     return(a-b);
