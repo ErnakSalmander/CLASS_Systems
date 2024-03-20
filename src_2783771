@@ -12,8 +12,8 @@ System.out.println(subtraction(10,3));
 System.out.println("Hello World");
 }
 
-  int subtraction(int a, int b)
+  int multiplication(a, b)
   {
-    return(a-b);
+    return(a*b);
  }
 }
