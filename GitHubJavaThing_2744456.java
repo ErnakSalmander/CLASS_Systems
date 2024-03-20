@@ -26,5 +26,13 @@ public class GitHubJavaThing_2744456 {
     {
         return a - b;
     }
+
+    public void printGreeting()
+    {
+        System.out.println("Hello from Ruslan Averin);
+
+    }
+
+    
     
 }
