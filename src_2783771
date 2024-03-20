@@ -21,4 +21,8 @@ public void printGreeting()
         System.out.println("Hello from Ruslan Averin);
 
     }
+ public void printGreeting()
+    {
+        System.out.println("Hello from Micah Bosko");
+    }
 }
